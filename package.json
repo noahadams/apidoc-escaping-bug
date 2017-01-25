@@ -4,7 +4,7 @@
   "description": "A demonstration of a bug in html escaping in apidoc",
   "main": "index.js",
   "scripts": {
-    "run": "`npm bin`/apidoc -i example/",
+    "start": "`npm bin`/apidoc -i example/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "noah.adams@gmail.com",
