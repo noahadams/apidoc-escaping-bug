@@ -1,0 +1,15 @@
+{
+  "name": "apidoc-escaping-bug",
+  "version": "1.0.0",
+  "description": "A demonstration of a bug in html escaping in apidoc",
+  "main": "index.js",
+  "scripts": {
+    "run": "`npm bin`/apidoc -i example/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noah.adams@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "apidoc": "^0.17.4"
+  }
+}
